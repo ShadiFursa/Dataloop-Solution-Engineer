@@ -1,6 +1,12 @@
 
 # Dataloop Solution Engineer Task
 
+## Part 1 of the Assignment: 
+
+in the PART1 directory in this repository are the some images of what i've done in part 1
+
+## Part 2 of the Assignment:
+
 ## Assignment.py walk through:
 
 1) login to Dataloop Platform - once the code is run , a pop-up browser should open, once you're logged in a message that you can close the window should appear.
@@ -28,4 +34,5 @@ Before Running the project make sure you update the path to the folder you want 
 python Assignment.py
 python Queries.py
 ```
+
 
