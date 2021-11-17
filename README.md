@@ -14,3 +14,18 @@
 A Timestamp of upload time will be added to the metadata of each image.
 One of the images will have 5 Random Point annotations labeled "key".
 
+## Queries.py Walk through:
+1) The First Query filters all the images that have "Class1" Classification.
+2) The Second Query Filters all the images that have Point Annotations, and prints the annotations themself.
+
+## Requirements: 
+Please Follow instruction on : https://dataloop.ai/docs/sdk-register 
+
+## Run the project: 
+Before Running the project make sure you update the path to the folder you want to upload images from.
+
+```
+python Assignment.py
+python Queries.py
+```
+
